@@ -16,7 +16,7 @@ Providing various different forms of inputs while keeping the style as untouched
 - Booleans (True/False)
 - Dropdowns
 
-There are no plans for this forked to ever be merged with the [original repository](https://github.com/TheNexusAvenger/Nexus-Button), and will simply exist as a stand-a-lone extenstion.
+There are no plans for this forked to ever be merged with the [original repository](https://github.com/TheNexusAvenger/Nexus-Button), and will simply exist as a standalone extension.
 
 This project is currently in development, and is not finished.
 
